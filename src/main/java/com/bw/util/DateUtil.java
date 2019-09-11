@@ -110,7 +110,7 @@ public class DateUtil {
 		}
 		return result;
 	}
-
+	
 //	给定时间对象，初始化到该月初的1月1日0时0分0秒0毫秒
 	public static void initDateTime(Calendar target) {
 		// 把target 对象的日  时  分  秒   毫秒  重置
